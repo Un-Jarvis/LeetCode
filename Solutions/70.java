@@ -13,3 +13,6 @@ class Solution {
         return dw[n];
     }
 }
+
+// 第n阶台阶是通过n-1或n-2阶台阶爬上去的
+// 但是不能直接 return climbStairs(n - 1) + climbStairs(n - 2); 存在大量重复运算会超时
