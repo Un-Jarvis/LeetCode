@@ -1,5 +1,4 @@
 # LeetCode
-LeetCode - Java Algorithm Problems
 
 | Number | Problem Title and URL | Difficulty | Tags | Solutions |
 |:------:| --------------------- |:----------:|:----:|:---------:|
