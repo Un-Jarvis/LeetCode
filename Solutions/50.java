@@ -16,17 +16,17 @@ class Solution {
     }
 
     // 错误：使用太多次 myPow(x, n / 2) 导致超时
-    public double myPow(double x, int n) {
-        if (n == 0) {
-            return 1.0;
-        }
+    // public double myPow(double x, int n) {
+    //     if (n == 0) {
+    //         return 1.0;
+    //     }
         
-        if (n % 2 == 0) {
-            return myPow(x, n / 2) * myPow(x, n / 2);
-        } else if (n % 2 == 1 && n > 0) {
-            return myPow(x, n / 2) * myPow(x, n / 2) * x;
-        } else { // if (n % 2 == 1 && n < 0)
-            return myPow(x, n / 2) * myPow(x, n / 2) * 1 / x;
-        }
-    }
+    //     if (n % 2 == 0) {
+    //         return myPow(x, n / 2) * myPow(x, n / 2);
+    //     } else if (n % 2 == 1 && n > 0) {
+    //         return myPow(x, n / 2) * myPow(x, n / 2) * x;
+    //     } else { // if (n % 2 == 1 && n < 0)
+    //         return myPow(x, n / 2) * myPow(x, n / 2) * 1 / x;
+    //     }
+    // }
 }
