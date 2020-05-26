@@ -31,7 +31,7 @@ class Solution {
             return new TreeNode(pre[0]);
         }
         
-        // Find position to construct the right subtree
+        // Find position to construct subtrees
         int pos = 0;
         for (int i = 0; i < pre.length; i++) {
             if (post[i] == pre[1]) {
@@ -48,7 +48,7 @@ class Solution {
 }
 
 /**
- * Head node of a tree occurs first in pre-order representation and occurs last in pos-order representation.
+ * Head node of a tree occurs first in preorder representation and occurs last in postorder representation.
  * That is, the tree has n nodes where n = post.indexOf(pre[0]) + 1.
  * 
  * In the same way, pre[1] is the root node of the left subtree. 
