@@ -6,6 +6,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/34.java)||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/50.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/70.java)||
+|77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/77.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[Recursion, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/79.java)||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/102.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/103.java)||
