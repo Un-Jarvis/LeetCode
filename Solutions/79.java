@@ -69,7 +69,9 @@ class Solution {
     }
 }
 
-// Breadth-First Search Tree
-// 1. 必须得用recursion，不然一步走错了无法退回上一步重新走
-// 2. 第44、45行，recursion结束要restore visited nodes
-// 3. 用了int[][]记录visted nodes，但其实用boolean[][]更好
+/**
+ * Breadth-First Search Tree
+ * 1. 必须得用recursion，不然一步走错了无法退回上一步重新走
+ * 2. 第44、45行，recursion结束要restore visited nodes
+ * 3. 用了int[][]记录visted nodes，但其实用boolean[][]更好
+ */ 
