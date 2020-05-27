@@ -1,4 +1,4 @@
-/** 
+/* 
  * Tree Traversal Notes:
  *            1
  *         /     \
@@ -44,7 +44,7 @@ class Solution {
     }
 }
 
-/**
+/*
  * Head node of a tree occurs first in pre-order representation and occurs in the middle of in-order representation.
  * 
  * The values at the left of the root value in inorder representation are the values in left subtree.

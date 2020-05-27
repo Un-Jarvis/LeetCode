@@ -1,4 +1,4 @@
-/** 
+/*
  * Tree Traversal Notes:
  *            1
  *         /     \
@@ -47,7 +47,7 @@ class Solution {
     }
 }
 
-/**
+/*
  * Head node of a tree occurs first in preorder representation and occurs last in postorder representation.
  * That is, the tree has n nodes where n = post.indexOf(pre[0]) + 1.
  * 
