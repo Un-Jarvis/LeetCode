@@ -2,7 +2,7 @@
  * 最优解：
  * 1. 判断每一个candidate是否等于target
  * 2. 如果小于target，则通过(target - candidates[i])来判断下一个组合的值 
- * 3. pos保证可以重复选用同一个candidate，并且不和之前的candidate重复
+ * 3. pos保证可以重复选用同一个candidate，并且不和之前的combination重复
  */
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
@@ -46,7 +46,7 @@ class Solution {
         return result;
     }
 
-    public void dfs(int[] candidates, int target, List<Integer> combination, List<List<Integer>> result) {
+    private void dfs(int[] candidates, int target, List<Integer> combination, List<List<Integer>> result) {
         if (getSumOfList(combination) == target && !hasDuplicate(combination, result)) {
             result.add(new ArrayList<>(combination));
         } else if (getSumOfList(combination) < target) {
@@ -58,7 +58,7 @@ class Solution {
         }
     } 
 
-    public int getSumOfList(List<Integer> list) {
+    private int getSumOfList(List<Integer> list) {
         int sum = 0;
         for (int i = 0; i < list.size(); i++) {
             sum += list.get(i);
@@ -66,7 +66,7 @@ class Solution {
         return sum;
     }
 
-    public boolean hasDuplicate(List<Integer> combination, List<List<Integer>> result) {
+    private boolean hasDuplicate(List<Integer> combination, List<List<Integer>> result) {
         boolean hasDuplicate = false;
         for (int i = 0; i < result.size(); i++) {
             List<Integer> copy = new ArrayList<>(combination);

@@ -5,6 +5,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/33.java)||
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/34.java)||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/39.java)||
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/40.java)||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/50.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/70.java)||
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/77.java)||

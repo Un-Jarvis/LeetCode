@@ -9,7 +9,7 @@ class Solution {
         return result;
     }
 
-    public void dfs(int n, int k, int pos, List<Integer> combination, List<List<Integer>> result) {
+    private void dfs(int n, int k, int pos, List<Integer> combination, List<List<Integer>> result) {
         /*
          * k is the size of a combination.
          * If the combination has a size of k, add it to the result list.
