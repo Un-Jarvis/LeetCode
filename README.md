@@ -2,6 +2,7 @@
 
 | Number | Problem Title and URL | Difficulty | Tags | Solutions |
 |:------:| --------------------- |:----------:|:----:|:---------:|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/22.java)||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/33.java)||
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/34.java)||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/39.java)||

@@ -15,8 +15,7 @@ class Solution {
                 combination.push(i);
                 result.add(new ArrayList<>(combination));
                 combination.pop();
-            }
-            if (i < n) {
+            } else if (i < n) {
                 combination.push(i);
                 dfs(k - 1, n - i, combination, result, i + 1);
                 combination.pop();
