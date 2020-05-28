@@ -5,6 +5,7 @@ class Solution {
         if (n <= 0 || k <= 0 || n < k) return result;
 
         dfs(n, k, 1, new ArrayList<>(), result);
+        
         return result;
     }
 
