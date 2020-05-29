@@ -10,6 +10,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/50.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/70.java)||
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/77.java)||
+|78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|[Recursion, BFS, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/78.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[Recursion, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/79.java)||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/102.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/103.java)||

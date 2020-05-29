@@ -3,6 +3,9 @@
  * 1. 判断每一个candidate是否等于target
  * 2. 如果小于target，则通过(target - candidates[i])来判断下一个组合的值 
  * 3. pos保证可以重复选用同一个candidate，并且不和之前的combination重复
+ * 
+ * Worst Case Time Complexity: O(n^m) where n = candiates.length and m = target
+ * 最坏情况，比如target = 7 and candidates = [1， 2， 3]，则n叉树的高度为7
  */
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {

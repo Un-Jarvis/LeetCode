@@ -17,8 +17,8 @@ class Solution {
         return result;
     }
     
-    public void dfs(int n, char[] combination, int openNum, int closeNum, int index, List<String> result){
-        if (closeNum == n){
+    private void dfs(int n, char[] combination, int openNum, int closeNum, int index, List<String> result){
+        if (closeNum == n) {
             result.add(new String(combination));
         } else {
             if (openNum < n) {
@@ -45,8 +45,8 @@ class Solution {
         return result;
     }
     
-    public void dfs(int n, String combination, int openNum, int closeNum, int index, List<String> result){
-        if (closeNum == n){
+    private void dfs(int n, String combination, int openNum, int closeNum, int index, List<String> result){
+        if (closeNum == n) {
             result.add(combination);
         } else {
             if (openNum < n) {
@@ -71,7 +71,7 @@ class Solution {
         return result;
     }
 
-    public void dfs(int n, String combination, List<String> result, int pos) {
+    private void dfs(int n, String combination, List<String> result, int pos) {
         if (n == 0) {
             result.add("");
         } else {
