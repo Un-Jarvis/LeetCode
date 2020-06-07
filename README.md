@@ -10,6 +10,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/40.java)||
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/46.java)||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/50.java)||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/69.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/70.java)||
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/77.java)||
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|[Recursion, BFS, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/78.java)||
