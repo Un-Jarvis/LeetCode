@@ -1,9 +1,7 @@
 class Solution {
     public int search(int[] nums, int target) {
         //corner case
-        if ( nums == null || nums.length == 0) {
-            return -1;
-        }
+        if ( nums == null || nums.length == 0) return -1;
         
         int left = 0, right = nums.length - 1, mid = 0;
         
@@ -26,6 +24,7 @@ class Solution {
                 }
             }
         }
+        
         return -1;
     }
 }
