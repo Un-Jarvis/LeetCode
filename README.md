@@ -12,9 +12,11 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/50.java)||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/69.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/70.java)||
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/74.java)||
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/77.java)||
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|[Recursion, BFS, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/78.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[Recursion, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/79.java)||
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/81.java)||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/102.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/103.java)||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/105.java)||

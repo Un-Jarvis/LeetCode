@@ -1,9 +1,9 @@
 class Solution {
     public int search(int[] nums, int target) {
         //corner case
-        if ( nums == null || nums.length == 0) return -1;
+        if (nums == null || nums.length == 0) return -1;
         
-        int left = 0, right = nums.length - 1, mid = 0;
+        int left = 0, mid = 0, right = nums.length - 1;
         
         while (left <= right) {
             mid = left + (right - left) / 2;
