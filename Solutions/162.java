@@ -1,5 +1,5 @@
 /*
- * Binary Search Tree - logarithmic complexity
+ * Binary Search Tree - logarithmic time complexity
  */
 class Solution {
     public int findPeakElement(int[] nums) {
