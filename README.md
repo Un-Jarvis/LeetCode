@@ -25,6 +25,7 @@
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|Hard|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/154.java)||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/162.java)||
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Easy|[DP]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/198.java)||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/206.java)||
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Medium|[DP]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/213.java)||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/216.java)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/240.java)||
