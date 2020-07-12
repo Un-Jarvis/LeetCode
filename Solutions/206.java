@@ -24,10 +24,15 @@ class Solution {
 /* Recursive */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode reversed = null;
-        if (head != null) {
-            reversed = new ListNode(head.val, reverseList(head.next));
-        }
-        return reversed;
+        return reverseList(null, head);
+    }
+    
+    public ListNode reverseList(ListNode prev, ListNode node) {
+        if (node == null) return prev;
+        
+        ListNode aux = node.next;
+        node.next = prev;
+        
+        return reverseList(node, aux);
     }
 }
