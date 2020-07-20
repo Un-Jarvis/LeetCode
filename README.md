@@ -26,7 +26,8 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/141.java)||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/142.java)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/143.java)||
-|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/147.java)||
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium|[Linked List, Sort]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/147.java)||
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|[Linked List, Sort]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/148.java)||
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/153.java)||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|Hard|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/154.java)||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/162.java)||

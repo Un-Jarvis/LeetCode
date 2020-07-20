@@ -8,6 +8,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+ /* Insertion Sort: Time Complexity: O(n^2) */
 class Solution {
     public ListNode insertionSortList(ListNode head) {
         if (head == null || head.next == null) return head;
