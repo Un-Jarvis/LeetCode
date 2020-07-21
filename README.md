@@ -18,6 +18,7 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|[Recursion, BFS, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/78.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[Recursion, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/79.java)||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/81.java)||
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/83.java)||
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/92.java)||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/102.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/103.java)||
@@ -30,6 +31,7 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|[Linked List, Sort]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/148.java)||
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/153.java)||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|Hard|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/154.java)||
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/160.java)||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/162.java)||
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Easy|[DP]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/198.java)||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/206.java)||
