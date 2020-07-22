@@ -2,6 +2,7 @@
 
 | Number | Problem Title and URL | Difficulty | Tags | Solutions |
 |:------:| --------------------- |:----------:|:----:|:---------:|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/17.java)||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/generate-parentheses/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/21.java)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/22.java)||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/24.java)||
