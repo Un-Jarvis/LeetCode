@@ -23,6 +23,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/83.java)||
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/86.java)||
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/92.java)||
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/94.java)||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/102.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/103.java)||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/105.java)||
@@ -30,6 +31,8 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/141.java)||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/142.java)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/143.java)||
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/144.java)||
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Hard|[Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/145.java)||
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium|[Linked List, Sort]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/147.java)||
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|[Linked List, Sort]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/148.java)||
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/153.java)||
