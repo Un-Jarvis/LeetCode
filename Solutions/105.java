@@ -11,7 +11,7 @@
  *   (b) Preorder 前序遍历 (Root, Left, Right) : 1 2 4 5 3 6
  *   (c) Postorder 后序遍历 (Left, Right, Root) : 4 5 2 6 3 1
  *
- * Breadth First or Level Order Traversal : 1 2 3 4 5 6
+ * Breadth First or Level Order Traversal 层序遍历: 1 2 3 4 5 6
  */
 
  /**
