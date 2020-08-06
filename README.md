@@ -24,6 +24,7 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/86.java)||
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/92.java)||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/94.java)||
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|Easy|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/100.java)||
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/101.java)||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/102.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/103.java)||
@@ -48,6 +49,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/206.java)||
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Medium|[DP]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/213.java)||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/216.java)||
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/226.java)||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/237.java)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/240.java)||
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/275.java)||
