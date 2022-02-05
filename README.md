@@ -2,8 +2,8 @@
 
 | Number | Problem Title and URL | Difficulty | Tags | Solutions |
 |:------:| --------------------- |:----------:|:----:|:---------:|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Medium|[Atoi]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/7.java)||
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[Atoi]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/8.java)||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Medium|[Number]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/7.java)||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[Number]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/8.java)||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/17.java)||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/generate-parentheses/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/21.java)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/22.java)||
