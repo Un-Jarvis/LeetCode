@@ -2,6 +2,8 @@
 
 | Number | Problem Title and URL | Difficulty | Tags | Solutions |
 |:------:| --------------------- |:----------:|:----:|:---------:|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Medium|[Atoi]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/7.java)||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[Atoi]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/8.java)||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/17.java)||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/generate-parentheses/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/21.java)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/22.java)||
@@ -20,6 +22,7 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|[Recursion, BFS, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/78.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|[Recursion, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/79.java)||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/81.java)||
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/82.java)||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/83.java)||
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/86.java)||
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/92.java)||
@@ -33,6 +36,7 @@
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Medium|[Recursion, Binary Tree, BFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/107.java)||
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|Easy|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/110.java)||
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Easy|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/111.java)||
+|139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|[DP]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/139.java)||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/141.java)||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/142.java)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/143.java)||
@@ -61,6 +65,7 @@
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/374.java)||
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|[Kth]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/378.java)||
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/)|Medium|[Sliding Window]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/438.java)||
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Easy|[Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/589.java)||
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/658.java)||
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|Easy|[]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/674.java)||
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/700.java)||

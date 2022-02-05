@@ -13,8 +13,9 @@
  *     }
  * }
  */
+
+// Solution 1: Use two queues
 class Solution {
-    // Solution 1: Use two queues
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
 
@@ -56,9 +57,10 @@ class Solution {
 
         return list;
     }
+}
 
-
-    // Solution 2: Use one queue
+// Solution 2: Use one queue
+class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
 
@@ -89,5 +91,41 @@ class Solution {
         }
             
         return list;
+    }
+}
+
+// Stack
+class Solution {
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        if (root == null) return new LinkedList<>();
+        
+        List<List<Integer>> order = new LinkedList<>();
+        boolean leftToRight = true;
+        
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        
+        while (!stack.empty()) {
+            List<Integer> level = new LinkedList<>();
+            Stack<TreeNode> nextStack = new Stack<>();
+            
+            while (!stack.empty()) {
+                TreeNode cur = stack.pop();
+                level.add(cur.val);
+                if (leftToRight) {
+                    if (cur.left != null) nextStack.push(cur.left);
+                    if (cur.right != null) nextStack.push(cur.right);
+                } else {
+                    if (cur.right != null) nextStack.push(cur.right);
+                    if (cur.left != null) nextStack.push(cur.left);
+                }
+            }
+            
+            order.add(level);
+            leftToRight = !leftToRight;
+            stack = nextStack;
+        }
+        
+        return order;
     }
 }
