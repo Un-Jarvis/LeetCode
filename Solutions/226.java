@@ -23,3 +23,11 @@ class Solution {
         return root;
     }
 }
+
+/* 简洁写法 */
+class Solution {
+    public TreeNode invertTree(TreeNode root) {
+        if (root == null) return root;
+        return new TreeNode(root.val, invertTree(root.right), invertTree(root.left));
+    }
+}
