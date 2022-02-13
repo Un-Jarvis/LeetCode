@@ -14,6 +14,7 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/39.java)||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/40.java)||
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/46.java)||
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[Recursion, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/47.java)||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/50.java)||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/69.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Recursion]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/70.java)||
@@ -58,15 +59,19 @@
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|[Recursion, Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/226.java)||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Easy|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/237.java)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/240.java)||
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[Number]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/258.java)||
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/275.java)||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/278.java)||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[Sorting]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/283.java)||
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|[DP, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/322.java)||
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium|[Linked List]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/328.java)||
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[DP, DFS]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/337.java)||
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|[Array]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/349.java)||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/374.java)||
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|[Kth]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/378.java)||
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/)|Medium|[Sliding Window]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/438.java)||
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Medium|[]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/532.java)||
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|[]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/560.java)||
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Easy|[Binary Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/589.java)||
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|Medium|[Binary Search Tree]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/658.java)||
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|Easy|[]|[Java](https://github.com/Un-Jarvis/LeetCode/blob/master/Solutions/674.java)||
